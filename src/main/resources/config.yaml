@@ -1,0 +1,8 @@
+default:
+  properties:
+    webdriver.type: remote
+    webdriver.url: http://daphnem%40crossbrowsertesting.com:u3a5e9a173dfe45a@hub.crossbrowsertesting.com:80/wd/hub
+    webdriver.cap.platform: Windows
+    webdriver.cap.browserName: chrome
+    webdriver.cap.recordVideo: true
+    webdriver.cap.name: Bobcat
