@@ -28,7 +28,7 @@
     webdriver.cap.name: Bobcat Example </code></pre>
 <p>Be sure to enter your username, encoding the @ with %40, and authkey</p>
 </li>
-<li>Run default test using the command:
+<li>Run the default test included using the command:
 <pre>./gradlew clean test </pre>
 </li>
 </ol>
