@@ -1,0 +1,8 @@
+default:
+  properties:
+    webdriver.type: remote
+    webdriver.url: http://YOUR_USERNAME:YOUR_AUTHKEY@hub.crossbrowsertesting.com:80/wd/hub
+    webdriver.cap.platform: Windows
+    webdriver.cap.browserName: chrome
+    webdriver.cap.recordVideo: true
+    webdriver.cap.name: Bobcat Example

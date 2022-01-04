@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "cbt.test.WikipediaTest",
+    "children" : [ {
+      "name" : "wikipediaSearchTest()",
+      "uid" : "adba3d4a4623847f",
+      "parentUid" : "a01c0976ecdc6276f17ce5db262913ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565036614085,
+        "stop" : 1565036621844,
+        "duration" : 7759
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a01c0976ecdc6276f17ce5db262913ae"
+  } ]
+}

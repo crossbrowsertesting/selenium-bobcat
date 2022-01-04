@@ -1,0 +1,21 @@
+default:
+  properties:
+    webdriver.type: remote
+    webdriver.url: http://YOURUSERNAME:YOURAUTHKEY@hub.crossbrowsertesting.com:80/wd/hub
+    webdriver.cap.platform: Windows
+    webdriver.cap.browserName: chrome
+    webdriver.cap.recordVideo: true
+    webdriver.cap.name: Bobcat
+    
+    # proxy.enabled: false
+    # proxy.ip: 127.0.0.1
+    # proxy.port: 9000
+    # page.title.timeout: 30
+    # allure.report: true
+    # allure.create.enviroment: true
+    # timings.implicitTimeout: 10
+  #contexts: [chrome]
+
+# contexts:
+#   chrome:
+#     webdriver.cap.browserName: chrome

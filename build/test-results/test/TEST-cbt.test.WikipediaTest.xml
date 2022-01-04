@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cbt.test.WikipediaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-05T20:23:34" hostname="SB-TN-P98FHTD6.local" time="7.801">
+  <properties/>
+  <testcase name="wikipediaSearchTest()" classname="cbt.test.WikipediaTest" time="7.801"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 05, 2019 3:23:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
